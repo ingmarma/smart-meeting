@@ -1,0 +1,11 @@
+# Ignorar archivos y carpetas de configuracion de Firebase
+.firebase
+firebase.json
+.firebaserc
+firestore.rules
+firestore.indexes.json
+# Ignorar archivos de sistema y de proyectos
+Thumbs.db
+.DS_Store
+node_modules
+.github
